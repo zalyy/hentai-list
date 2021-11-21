@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="de">
 <head>
     <meta charset="UTF-8">
@@ -21,8 +21,8 @@
             <a href="https://hentaihaven.xxx/hentai-stream/"><p>hentaihaven</p></a>
         </li>
         <li>
-            <a href="https://hanime.tv/"><p>hanime.tv</p</a>
-        </li>
+            <a href="https://hanime.tv/"><p>hanime.tv
+        
         <li>
             <a href="https://nhentai.net/"><p>nhentai.net</p></a>
         </li>
