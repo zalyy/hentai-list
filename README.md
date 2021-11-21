@@ -50,6 +50,4 @@
         <li>
             <a href="https://doujins.com/"><p>doujins</p></a>
         </li>
-    </ul>
-    
- </body>
+ 
